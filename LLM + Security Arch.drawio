@@ -62,7 +62,7 @@
           <mxGeometry x="556" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvAZoEvqGUw3eBTVHthU-45" value="Security Operation Center" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="636" y="239.74" width="160" height="30" as="geometry" />
+          <mxGeometry x="627" y="239.74" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvAZoEvqGUw3eBTVHthU-46" value="Database&lt;div&gt;(Encrypted)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="542" y="437" width="90" height="40" as="geometry" />
